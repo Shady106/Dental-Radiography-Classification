@@ -25,6 +25,9 @@ Dental-Radiography-Classification/
 │
 ├── README.md
 │
+├── archive.zip (Dataset)
+│
+│
 ├── Custom_CNN/
 │   ├── CNN_Project_Convert.ipynb
 │   ├── best_model.weights.h5
