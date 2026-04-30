@@ -25,7 +25,7 @@ Dental-Radiography-Classification/
 │
 ├── README.md
 │
-├── archive.zip (Dataset)
+├── archive.zip (Dataset imported from kaggle)
 │
 │
 ├── Custom_CNN/
